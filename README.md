@@ -17,6 +17,7 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/naveen-rajesh/Quick-Cart.git
    cd Quick-Cart
+   cd efficientNet
 
 
 2. Install the required packages:

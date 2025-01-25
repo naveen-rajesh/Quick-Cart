@@ -18,11 +18,14 @@ To run this project locally, follow these steps:
    git clone https://github.com/naveen-rajesh/Quick-Cart.git
    cd Quick-Cart
 
-2.Install the required packages:
-  ```bash
-  pip install -r requirements.txt
+
+2. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+
+   
+3. Run the Streamlit app:
+   ```bash
+   streamlit run classify.py
 
 
-3.Run the Streamlit app:
-  ```bash
-  streamlit run classify.py

@@ -1,6 +1,6 @@
 # Quick Cart
 
-Quick Cart is a web application designed to streamline the shopping experience. It allows users to upload image of the products, add them to their cart, and proceed to checkout seamlessly. The application is built using Streamlit and is deployed at [quick-cart.streamlit.app](https://quick-cart.streamlit.app).
+Quick Cart is a web application designed to streamline the shopping experience. It allows users to upload image of the products, add them to their cart, and proceed to checkout seamlessly. The application is built using Streamlit and is deployed at [quick-cart.streamlit.app](https://quick-cart.streamlit.app).The app is trainedd based on the dataset from [GroceryStoreDataset](https://github.com/marcusklasson/GroceryStoreDataset)
 
 ## Features
 
@@ -19,7 +19,9 @@ To run this project locally, follow these steps:
    cd Quick-Cart
 
 2.Install the required packages:
+  ```bash
   pip install -r requirements.txt
 
 3.Run the Streamlit app:
+  ```bash
   streamlit run classify.py

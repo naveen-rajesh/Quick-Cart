@@ -22,6 +22,7 @@ To run this project locally, follow these steps:
   ```bash
   pip install -r requirements.txt
 
+
 3.Run the Streamlit app:
   ```bash
   streamlit run classify.py
